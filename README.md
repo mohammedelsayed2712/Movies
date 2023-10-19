@@ -19,7 +19,10 @@ The data of the list will also be stored in your browser so it is a complete app
 - Javascript
 - Create React App
 - OMDb API
-- 
+
 ### Code quality
 - ESLint
 - Prettier
+
+## Available Scripts
+> npm start
