@@ -25,4 +25,4 @@ The data of the list will also be stored in your browser so it is a complete app
 - Prettier
 
 ## Available Scripts
-# > npm start
+> ## npm start
